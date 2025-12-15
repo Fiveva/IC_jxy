@@ -2,3 +2,6 @@
 *.png
 *.csv
 *.npz
+*.npy
+*.mat
+*.dat
