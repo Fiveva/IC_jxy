@@ -5,3 +5,7 @@
 *.npy
 *.mat
 *.dat
+
+!IC/M21/M21.csv
+!IC/M79/M79.csv
+!sub/IC/M79/M79.csv
