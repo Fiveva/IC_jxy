@@ -2,6 +2,7 @@
 Code for analysis
 
 ### Structure
+```text
 analysis (核心功能代码附有中文介绍)
 │  .gitignore
 │  clustering.py 聚类 + shuffle
@@ -66,3 +67,4 @@ analysis (核心功能代码附有中文介绍)
 │
 └─__pycache__
         four_class.cpython-311.pyc
+```
