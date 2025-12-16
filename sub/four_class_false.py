@@ -69,7 +69,7 @@ class ExpConfig:
         }
 
 
-cfg = ExpConfig("IC\M79\M79.json")
+cfg = ExpConfig("IC\M21\M21.json")
 
 # %% 预处理相关函数定义(通用)
 # 从matlab改过来的，经过检查应该无误
